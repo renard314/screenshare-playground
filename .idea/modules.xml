@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScreenShare.iml" filepath="$PROJECT_DIR$/ScreenShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decoder/decoder.iml" filepath="$PROJECT_DIR$/decoder/decoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screensharelib/screensharelib.iml" filepath="$PROJECT_DIR$/screensharelib/screensharelib.iml" />
+    </modules>
+  </component>
+</project>
+
